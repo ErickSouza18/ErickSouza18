@@ -6,7 +6,7 @@ Sou estudante de Engenharia de Software
 Meus contatos são esses! 👇
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-cesar-lopes-de-souza-981a56260/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Erick.cesar.lopes.souza@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](erick.cesar.lopes.souza@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/856357731547873281)
 
 ![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickSouza18&show_icons=true&theme=tokyonight)
