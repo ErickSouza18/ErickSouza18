@@ -13,9 +13,6 @@ Meus contatos são esses! 👇
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSouza18&layout=compact)
-
-
 ## Tecnologias que uso no dia a dia na faculdade
 
 
