@@ -1,36 +1,73 @@
+<div align="center">
+  <!-- Banner animado -->
+  <img src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" alt="Bem-vindo" width="100%" />
+</div>
 
-### Olá! Eu sou o Erick Souza 🖐️
+<h1 align="center">Olá! Eu sou o Erick Souza 🖐️</h1>
+<p align="center">Estudante de Engenharia de Software</p>
 
-Sou estudante de Engenharia de Software
+<div align="center">
+  <a href="https://www.linkedin.com/in/erick-cesar-lopes-de-souza-981a56260/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:erick.cesar.lopes.souza@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://discordapp.com/users/856357731547873281">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</div>
 
-Meus contatos são esses! 👇
+<br>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-cesar-lopes-de-souza-981a56260/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](erick.cesar.lopes.souza@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/856357731547873281)
-
-![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickSouza18&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErickSouza18&show_icons=true&theme=tokyonight" alt="Erick GitHub stats"/>
+</div>
 
 <br>
 
 ## Tecnologias que uso no dia a dia na faculdade
 
+<div align="center">
+  <img alt="HTML 5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+</div>
 
-<div style="dysplay: inline_block"><br/>
-    <img alig="center" alt="Html 5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alig="center" alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alig="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img alig="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img alig="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img alig="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alig="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-    <img alig="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-    <img alig="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img alig="center" alt="Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-    <img alig="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img alig="center" alt="Hibernade" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+<br>
 
-    
+## Sobre Mim
 
-    
+<p>
+  Apaixonado por tecnologia e sempre em busca de aprender algo novo.<br>
+  Estou explorando novas ferramentas e frameworks para aprimorar meus projetos.<br>
+  Confira meus repositórios e projetos abaixo!
+</p>
 
+<div align="center">
+  <!-- GIF animado para dar um toque especial -->
+  <img src="https://media.giphy.com/media/3o6ZsVtZgkRrsbE9La/giphy.gif" alt="Coding" width="50%"/>
+</div>
+
+<br>
+
+## Projetos
+
+- **Projeto 1:** Descrição breve do projeto.
+- **Projeto 2:** Descrição breve do projeto.
+- **Projeto 3:** Descrição breve do projeto.
+
+<br>
+
+<div align="center">
+  <i>Obrigado por visitar meu perfil! 🚀</i>
+</div>
