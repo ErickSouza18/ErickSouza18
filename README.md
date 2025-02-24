@@ -1,8 +1,3 @@
-<div align="center">
-  <!-- Banner animado -->
-  <img src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" alt="Bem-vindo" width="100%" />
-</div>
-
 <h1 align="center">Olá! Eu sou o Erick Souza 🖐️</h1>
 <p align="center">Estudante de Engenharia de Software</p>
 
@@ -52,19 +47,6 @@
   Estou explorando novas ferramentas e frameworks para aprimorar meus projetos.<br>
   Confira meus repositórios e projetos abaixo!
 </p>
-
-<div align="center">
-  <!-- GIF animado para dar um toque especial -->
-  <img src="https://media.giphy.com/media/3o6ZsVtZgkRrsbE9La/giphy.gif" alt="Coding" width="50%"/>
-</div>
-
-<br>
-
-## Projetos
-
-- **Projeto 1:** Descrição breve do projeto.
-- **Projeto 2:** Descrição breve do projeto.
-- **Projeto 3:** Descrição breve do projeto.
 
 <br>
 
