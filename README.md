@@ -21,6 +21,12 @@
 
 <br>
 
+<div align ="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSouza18&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<br>
+
 ## Tecnologias que uso no dia a dia na faculdade
 
 <div align="center">
