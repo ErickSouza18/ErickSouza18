@@ -29,10 +29,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ErickSouza18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 <br>
 
 ## 🛠️ Tecnologias que uso no dia a dia na faculdade
