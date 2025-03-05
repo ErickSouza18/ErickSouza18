@@ -15,19 +15,27 @@
 
 <br>
 
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErickSouza18&show_icons=true&theme=tokyonight" alt="Erick GitHub stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErickSouza18&show_icons=true&theme=tokyonight" alt="Erick GitHub stats"/>
 </div>
 
 <br>
 
-<div align ="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSouza18&layout=compact&theme=tokyonight" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErickSouza18&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br>
 
-## Tecnologias que uso no dia a dia na faculdade
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ErickSouza18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+## 🛠️ Tecnologias que uso no dia a dia na faculdade
 
 <div align="center">
   <img alt="HTML 5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -46,7 +54,7 @@
 
 <br>
 
-## Sobre Mim
+## 📌 Sobre Mim
 
 <p>
   Apaixonado por tecnologia e sempre em busca de aprender algo novo.<br>
